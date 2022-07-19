@@ -1,5 +1,5 @@
 # Smart-Home
-Smart Home implemented using Arduino Mega
+Smart Home implemented using Arduino Mega.
 Maquette Design and sensors fixation done by the team
 
 Smart Home features:
